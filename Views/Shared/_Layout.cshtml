@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Marcenaria_Ismael</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Marcenaria_Ismael.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/global/global.css" asp-append-version="true" />
+</head>
+<body>
+    <header class="header">
+        <nav class="navbar">
+            <a class="logo" asp-area="" asp-controller="Home" asp-action="Index">
+                <img class="logoimg" src="~/images/global/carpenter.png" alt="logo" />
+            </a>
+                <div class="listapaginas">
+                    <ul class="lista">
+
+                        <li class="paginas">
+                            <a class="link" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+
+                        <li class="paginas">
+                            <a class="link"  asp-area="" asp-controller="Home" asp-action="Servicos">Serviços</a>
+                        </li>
+
+                        <li class="paginas">
+                            <a class="link" asp-area="" asp-controller="Home" asp-action="Contatos">Contatos</a>
+                        </li>
+
+                    </ul>
+                </div>
+        </nav>
+    </header>
+    <div class="principal">
+        <main class="conteudo">
+            @RenderBody()
+        </main>
+    </div>
+    <footer class="rodape">
+        <div class="container_rodape">
+            <div class="servicos">
+                <h2>Serviços que atendemos:</h2>
+                <p>
+                   <ul>
+                       <li>Móveis sob medida</li>
+                       <li>Reparos e Restaurações</li>
+                       <li>Revestimentos e Acabementos</li>
+                       <li>Projetos especiais</li>
+                    </ul> 
+                </p>
+            </div>
+            <div class="imgservicos">
+                <img class="carrossel" src="~/images/global/Carrossel_footer/workshop.jpg" alt="Carrossel serviços" />    
+            </div>
+            <p>&copy; 2025 - Marcenaria_Ismael - <a asp-area="" asp-controller="Home" asp-action="Contatos">Contatos</a></p>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,111 @@
+﻿html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    flex-direction: row;
+    width: 100%;
+    max-height: 100px;
+    height: 100px;
+   
+}
+    .header .navbar {
+        flex-direction: row;
+        display: flex;
+        position: relative;
+        height: 100%;
+        background-color: saddlebrown;
+        border-bottom: solid 1px #333;
+        box-shadow: 0px 0px 25px 30px rgba(0, 0, 0, 0.1);
+    }    
+        .header .navbar .logo{
+           width:5%;
+  
+   
+        } 
+            .header .navbar .logo .logoimg{
+                width:100%;
+                height:80%;
+                padding-top: 4px;
+                padding-left: 20px 
+            }
+        .header .navbar .listapaginas{
+          align-content:center;
+ 
+        }
+            .header .navbar .listapaginas .lista {
+                flex-direction: row;
+                display:flex;
+                gap: 20px 40px;
+                list-style:none 
+            }
+                .header .navbar .listapaginas .lista .paginas {
+                    font-size: 30px;
+                    transition: all 0.5s ease;
+                }
+                    .header .navbar .listapaginas .lista .paginas:hover {
+                        transform: translateY(-4px);
+                        border-bottom: solid 1px white;
+                    }
+                    .header .navbar .listapaginas .lista .paginas .link {
+                        color: wheat;
+                        text-decoration: none;
+                        color: none
+                    }
+.principal {
+    margin: 0; /* Remove margens padrão */
+    padding: 0; /* Remove paddings padrão */
+    background-color: #f8f9fa; /* Cor de fundo suave */
+    color: #333; /* Cor padrão do texto */
+    height: 100%;
+    line-height: 1.6; /* Espaçamento entre linhas */
+}
+    .principal .conteudo {
+        max-width: 1200px; /* Largura máxima */
+        margin: 0 auto; /* Centraliza na página */
+        padding: 20px; /* Espaçamento interno */
+        padding-bottom: 60px;
+    }
+
+
+.rodape{
+    background-color:saddlebrown;
+}
+    .rodape .container_rodape {
+      display: flex;
+      flex-wrap: wrap;
+      flex-direction:row;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 20px;
+      justify-content:center
+    }
+        .rodape .container_rodape .servicos {
+            border-right: solid 1px;
+            line-height: 1.6;
+            font-size: 15px;
+            padding-right:15px;
+            padding-top: 20px;
+            font-weight:bold;
+            color:white;  
+            
+        }
+        .rodape .container_rodape .imgservicos {
+          
+           width:50%;
+           height:250px;
+           padding-left:50px;
+           padding-top:30px
+           
+           
+          
+        }
+            .rodape .container_rodape .imgservicos .carrossel {
+                border: solid 1px;
+                width: 100%;
+                height: 80%;
+                border-radius:5px
+               
+            }
