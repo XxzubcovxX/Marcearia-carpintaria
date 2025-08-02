@@ -1,9 +1,60 @@
 ﻿
 @{
+   
+   
     ViewData["Title"] = "Home Page";
 }
+<script src="~/js/index/CarrosselVitrine.js"></script>
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p> Olá mundo, estou usando um projeto dotnet para teste ;-;</p>
-</div>
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="~/css/index/index.css" asp-append-version="true" />
+</head>
+    <section class="geral">
+
+        <div class="conteudo">
+            <h1 class="">Peça do seu jeito! </h1>
+            <p>
+            Acreditamos que cada projeto é único. Não queremos apenas produzir móveis, queremos realizar a sua ideia. Por isso, oferecemos a possibilidade de você ter um móvel feito sob medida, com o design, as cores e as dimensões que você sempre imaginou. Desde uma simples prateleira até uma cozinha planejada completa, nossa equipe de artesãos está pronta para transformar seu sonho em realidade, utilizando madeiras nobres e acabamentos de alta qualidade.
+           </p>
+        </div>
+    </section>
+
+    <section class="vitrine">
+        <div class="carrossel">
+            <div class="carrossel-slides">
+                <img class="slides" src="~/images/global/Carrossel_vitrine/basket.jpg" alt="Imagem 1">
+                <img class="slides" src="" alt="Imagem 2">
+                <img class="slides" src="" alt="Imagem 3">
+                <img class ="slides" src="" alt="Imagem 3">
+                <img class="slides" src="" alt="Imagem 3">
+           </div>
+            <button id="antBtn">&#10094;</button>
+            <button id="proxBtn">&#10095;</button>
+
+            <div class="carrosel-indicadores">
+
+                <span class="indicator active" data-slide="0"></span>
+                <span class="indicator" data-slide="1"></span>
+                <span class="indicator" data-slide="2"></span>
+                <span class="indicator" data-slide="3"></span>
+                <span class="indicator" data-slide="4"></span>
+
+            </div>
+        </div>
+
+    </section>
+    <section class="sobre">
+        <div class="conteudo">
+            <h1>O profissional</h1>
+        <p>
+            Sou um artesão que vive e respira a madeira. Para mim, ela não é apenas um material, mas uma tela em branco com infinitas possibilidades. O som da serra, o cheiro do cedro e a textura de cada nó me inspiram a criar.
+
+            Meu trabalho começa com a interpretação de um sonho – o seu. Seja um rascunho em um papel ou uma ideia na cabeça, eu me dedico a transformar isso em algo real e duradouro. Com cada corte, cada lixamento e cada encaixe, busco a perfeição, unindo a precisão da técnica com o coração de quem ama o que faz.
+
+            Quando você me contrata, não está apenas comprando um móvel; está adquirindo uma peça feita com dedicação e a solidez que só o trabalho manual pode oferecer. Eu garanto que o resultado final será uma obra de arte, feita para durar uma vida inteira.
+        </p>
+        </div>
+    </section>

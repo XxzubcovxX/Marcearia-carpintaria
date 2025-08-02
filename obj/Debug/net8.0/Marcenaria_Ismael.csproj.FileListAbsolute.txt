@@ -30,3 +30,6 @@ C:\Users\T-GAMER\Desktop\André\projetos\Cs\Marcenaria_Ismael\obj\Debug\net8.0\r
 C:\Users\T-GAMER\Desktop\André\projetos\Cs\Marcenaria_Ismael\obj\Debug\net8.0\Marcenaria_Ismael.pdb
 C:\Users\T-GAMER\Desktop\André\projetos\Cs\Marcenaria_Ismael\obj\Debug\net8.0\Marcenaria_Ismael.genruntimeconfig.cache
 C:\Users\T-GAMER\Desktop\André\projetos\Cs\Marcenaria_Ismael\obj\Debug\net8.0\ref\Marcenaria_Ismael.dll
+C:\Users\T-GAMER\Desktop\André\projetos\Cs\Marcenaria_Ismael\obj\Debug\net8.0\Marcenaria_Ismael.sourcelink.json
+C:\Users\T-GAMER\Desktop\André\projetos\Cs\Marcenaria_Ismael\bin\Debug\net8.0\package-lock.json
+C:\Users\T-GAMER\Desktop\André\projetos\Cs\Marcenaria_Ismael\bin\Debug\net8.0\package.json
