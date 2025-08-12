@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "rftS9BmozUk=",
+  "dgSpecHash": "6IDkSE/XRo4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\T-GAMER\\Desktop\\André\\projetos\\Cs\\Marcenaria_Ismael\\Marcenaria_Ismael.csproj",
+  "projectFilePath": "C:\\Users\\Elain\\OneDrive\\Área de Trabalho\\André\\Projeto\\Marcearia-carpintaria\\Marcenaria_Ismael.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\T-GAMER\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+    "C:\\Users\\Elain\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
   ],
   "logs": []
 }

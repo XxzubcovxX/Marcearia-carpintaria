@@ -99,24 +99,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\T-GAMER\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Elain\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\T-GAMER\\Desktop\\André\\projetos\\Cs\\Marcenaria_Ismael\\Marcenaria_Ismael.csproj",
+      "projectUniqueName": "C:\\Users\\Elain\\OneDrive\\Área de Trabalho\\André\\Projeto\\Marcearia-carpintaria\\Marcenaria_Ismael.csproj",
       "projectName": "Marcenaria_Ismael",
-      "projectPath": "C:\\Users\\T-GAMER\\Desktop\\André\\projetos\\Cs\\Marcenaria_Ismael\\Marcenaria_Ismael.csproj",
-      "packagesPath": "C:\\Users\\T-GAMER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\T-GAMER\\Desktop\\André\\projetos\\Cs\\Marcenaria_Ismael\\obj\\",
+      "projectPath": "C:\\Users\\Elain\\OneDrive\\Área de Trabalho\\André\\Projeto\\Marcearia-carpintaria\\Marcenaria_Ismael.csproj",
+      "packagesPath": "C:\\Users\\Elain\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Elain\\OneDrive\\Área de Trabalho\\André\\Projeto\\Marcearia-carpintaria\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\T-GAMER\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Elain\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -141,8 +136,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.300"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -172,7 +166,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -33,3 +33,36 @@ C:\Users\T-GAMER\Desktop\André\projetos\Cs\Marcenaria_Ismael\obj\Debug\net8.0\r
 C:\Users\T-GAMER\Desktop\André\projetos\Cs\Marcenaria_Ismael\obj\Debug\net8.0\Marcenaria_Ismael.sourcelink.json
 C:\Users\T-GAMER\Desktop\André\projetos\Cs\Marcenaria_Ismael\bin\Debug\net8.0\package-lock.json
 C:\Users\T-GAMER\Desktop\André\projetos\Cs\Marcenaria_Ismael\bin\Debug\net8.0\package.json
+C:\Users\Elain\OneDrive\Área de Trabalho\André\Projeto\Marcearia-carpintaria\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Elain\OneDrive\Área de Trabalho\André\Projeto\Marcearia-carpintaria\bin\Debug\net8.0\appsettings.json
+C:\Users\Elain\OneDrive\Área de Trabalho\André\Projeto\Marcearia-carpintaria\bin\Debug\net8.0\package-lock.json
+C:\Users\Elain\OneDrive\Área de Trabalho\André\Projeto\Marcearia-carpintaria\bin\Debug\net8.0\package.json
+C:\Users\Elain\OneDrive\Área de Trabalho\André\Projeto\Marcearia-carpintaria\bin\Debug\net8.0\Marcenaria_Ismael.staticwebassets.runtime.json
+C:\Users\Elain\OneDrive\Área de Trabalho\André\Projeto\Marcearia-carpintaria\bin\Debug\net8.0\Marcenaria_Ismael.exe
+C:\Users\Elain\OneDrive\Área de Trabalho\André\Projeto\Marcearia-carpintaria\bin\Debug\net8.0\Marcenaria_Ismael.deps.json
+C:\Users\Elain\OneDrive\Área de Trabalho\André\Projeto\Marcearia-carpintaria\bin\Debug\net8.0\Marcenaria_Ismael.runtimeconfig.json
+C:\Users\Elain\OneDrive\Área de Trabalho\André\Projeto\Marcearia-carpintaria\bin\Debug\net8.0\Marcenaria_Ismael.dll
+C:\Users\Elain\OneDrive\Área de Trabalho\André\Projeto\Marcearia-carpintaria\bin\Debug\net8.0\Marcenaria_Ismael.pdb
+C:\Users\Elain\OneDrive\Área de Trabalho\André\Projeto\Marcearia-carpintaria\obj\Debug\net8.0\Marcenaria_Ismael.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elain\OneDrive\Área de Trabalho\André\Projeto\Marcearia-carpintaria\obj\Debug\net8.0\Marcenaria_Ismael.AssemblyInfoInputs.cache
+C:\Users\Elain\OneDrive\Área de Trabalho\André\Projeto\Marcearia-carpintaria\obj\Debug\net8.0\Marcenaria_Ismael.AssemblyInfo.cs
+C:\Users\Elain\OneDrive\Área de Trabalho\André\Projeto\Marcearia-carpintaria\obj\Debug\net8.0\Marcenaria_Ismael.csproj.CoreCompileInputs.cache
+C:\Users\Elain\OneDrive\Área de Trabalho\André\Projeto\Marcearia-carpintaria\obj\Debug\net8.0\Marcenaria_Ismael.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Elain\OneDrive\Área de Trabalho\André\Projeto\Marcearia-carpintaria\obj\Debug\net8.0\Marcenaria_Ismael.RazorAssemblyInfo.cache
+C:\Users\Elain\OneDrive\Área de Trabalho\André\Projeto\Marcearia-carpintaria\obj\Debug\net8.0\Marcenaria_Ismael.RazorAssemblyInfo.cs
+C:\Users\Elain\OneDrive\Área de Trabalho\André\Projeto\Marcearia-carpintaria\obj\Debug\net8.0\Marcenaria_Ismael.sourcelink.json
+C:\Users\Elain\OneDrive\Área de Trabalho\André\Projeto\Marcearia-carpintaria\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Elain\OneDrive\Área de Trabalho\André\Projeto\Marcearia-carpintaria\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Elain\OneDrive\Área de Trabalho\André\Projeto\Marcearia-carpintaria\obj\Debug\net8.0\staticwebassets\msbuild.Marcenaria_Ismael.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Elain\OneDrive\Área de Trabalho\André\Projeto\Marcearia-carpintaria\obj\Debug\net8.0\staticwebassets\msbuild.build.Marcenaria_Ismael.props
+C:\Users\Elain\OneDrive\Área de Trabalho\André\Projeto\Marcearia-carpintaria\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Marcenaria_Ismael.props
+C:\Users\Elain\OneDrive\Área de Trabalho\André\Projeto\Marcearia-carpintaria\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Marcenaria_Ismael.props
+C:\Users\Elain\OneDrive\Área de Trabalho\André\Projeto\Marcearia-carpintaria\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Elain\OneDrive\Área de Trabalho\André\Projeto\Marcearia-carpintaria\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Elain\OneDrive\Área de Trabalho\André\Projeto\Marcearia-carpintaria\obj\Debug\net8.0\scopedcss\bundle\Marcenaria_Ismael.styles.css
+C:\Users\Elain\OneDrive\Área de Trabalho\André\Projeto\Marcearia-carpintaria\obj\Debug\net8.0\scopedcss\projectbundle\Marcenaria_Ismael.bundle.scp.css
+C:\Users\Elain\OneDrive\Área de Trabalho\André\Projeto\Marcearia-carpintaria\obj\Debug\net8.0\Marcenaria_Ismael.dll
+C:\Users\Elain\OneDrive\Área de Trabalho\André\Projeto\Marcearia-carpintaria\obj\Debug\net8.0\refint\Marcenaria_Ismael.dll
+C:\Users\Elain\OneDrive\Área de Trabalho\André\Projeto\Marcearia-carpintaria\obj\Debug\net8.0\Marcenaria_Ismael.pdb
+C:\Users\Elain\OneDrive\Área de Trabalho\André\Projeto\Marcearia-carpintaria\obj\Debug\net8.0\Marcenaria_Ismael.genruntimeconfig.cache
+C:\Users\Elain\OneDrive\Área de Trabalho\André\Projeto\Marcearia-carpintaria\obj\Debug\net8.0\ref\Marcenaria_Ismael.dll
