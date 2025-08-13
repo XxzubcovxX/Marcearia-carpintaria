@@ -67,3 +67,35 @@
     font-family: 'Montserrat', sans-serif;
     margin-left:10px
 }
+.pagamento .cartoes{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}
+.pagamento .cartoes img{
+    width: 60px;
+    height: 60px;
+   
+}
+.contato{
+    
+}
+.contato .botao-contato{
+    width: 200px;
+    height: 50px;
+    background-color: #4CAF50; /* Green */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+     transition: 0.3s ease-in-out;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 20px;
+}
+.contato .botao-contato:hover {
+    background-color: #45a049; /* Darker green on hover */
+    transition: 0.3s ease-in-out;
+    transform:translateY(-2px);
+   
+}

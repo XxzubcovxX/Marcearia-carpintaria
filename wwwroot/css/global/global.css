@@ -60,7 +60,9 @@
 .principal {
     margin: 0; /* Remove margens padrão */
     padding: 0; /* Remove paddings padrão */
-    background-color: #f8f9fa; /* Cor de fundo suave */
+    background-image: url("C:/Users/Elain/OneDrive/Área de Trabalho/André/Projeto/Marcearia-carpintaria/wwwroot/images/global/wooden-flooring-textured-background-design.jpg");
+    
+     background-repeat: repeat;
     color: #333; /* Cor padrão do texto */
     height: 100%;
     line-height: 1.6; /* Espaçamento entre linhas */
@@ -68,7 +70,6 @@
 }
     .principal .conteudo {
         
-      
         padding: 20px; /* Espaçamento interno */
         padding-bottom: 60px;
     }

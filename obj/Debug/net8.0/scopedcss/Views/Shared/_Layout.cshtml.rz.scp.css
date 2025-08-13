@@ -1,6 +1,8 @@
 /* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */
-
+main[b-qpp8lbcn3l]{
+  background-image: url("C:/Users/Elain/OneDrive/Área de Trabalho/André/Projeto/Marcearia-carpintaria/wwwroot/images/global/wooden-flooring-textured-background-design.jpg");
+}
 a.navbar-brand[b-qpp8lbcn3l] {
   white-space: normal;
   text-align: center;
