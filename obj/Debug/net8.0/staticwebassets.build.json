@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NF23GXkpgkt2LczcsUCyabQZ6pFkOPTNoYCevkgYhW0=",
+  "Hash": "8L7ec67kPXZNQT9T7h5t0enJBSvHkkTrwTO7txKmL14=",
   "Source": "Marcenaria_Ismael",
   "BasePath": "_content/Marcenaria_Ismael",
   "Mode": "Default",
@@ -473,12 +473,12 @@
       "OriginalItemSpec": "wwwroot\\images\\global\\Carrossel_vitrine\\woodworking-6850368_1280.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elain\\OneDrive\\Área de Trabalho\\André\\Projeto\\Marcearia-carpintaria\\wwwroot\\images\\global\\wooden-flooring-textured-background-design.jpg",
+      "Identity": "C:\\Users\\Elain\\OneDrive\\Área de Trabalho\\André\\Projeto\\Marcearia-carpintaria\\wwwroot\\images\\global\\wooden.jpg",
       "SourceId": "Marcenaria_Ismael",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Elain\\OneDrive\\Área de Trabalho\\André\\Projeto\\Marcearia-carpintaria\\wwwroot\\",
       "BasePath": "_content/Marcenaria_Ismael",
-      "RelativePath": "images/global/wooden-flooring-textured-background-design.jpg",
+      "RelativePath": "images/global/wooden.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -489,7 +489,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\global\\wooden-flooring-textured-background-design.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\global\\wooden.jpg"
     },
     {
       "Identity": "C:\\Users\\Elain\\OneDrive\\Área de Trabalho\\André\\Projeto\\Marcearia-carpintaria\\wwwroot\\js\\index\\CarrosselVitrine.js",

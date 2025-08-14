@@ -1,13 +1,25 @@
 
+.borda-titulo{
+    border:solid 2px black;
+    border-radius:10px;
+    width: 20%;
+    height: 75px;
+    text-align: center;
+}
+.titulo-brindes{
+    text-align: center;
+    color: white;
+    
+}
 .brindes {
     width:100%;
    display: flex;
     flex-direction: row;
-    background-color: #F5F5DC;
     border-radius:10px;
     box-shadow: 10px 10px 15px 5px rgba(0, 0, 0, 0.1);
 }
 .brindes .conteudo{
+    background-color: #F5F5DC;
     justify-content: center;
     text-align: left;
     width: 60%;
@@ -23,6 +35,11 @@
     border-bottom: solid 2px black;
     border-radius:3px;
 
+}
+.titulo-moveis{
+    text-align: center;
+    color: white;
+    
 }
 .personalizados{
      width:100%;

@@ -4,7 +4,7 @@
     display: flex;
     border-radius: 10px;
     background-color: #F5F5DC;
-    box-shadow: 10px 10px 15px 5px rgba(0, 0, 0, 0.1);
+        box-shadow: 0px 0px 10px 20px rgba(43, 42, 42, 0.1);
 }
     .geral .conteudo {
         width: 100%;
@@ -29,7 +29,7 @@
         margin: 0 auto;
         overflow: hidden;
         border-radius: 10px;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        box-shadow: 0px 0px 10px 5px rgba(43, 42, 42, 0.1);
     }
         .vitrine .carrossel .carrossel-slides {
             
@@ -92,7 +92,7 @@
     flex-direction:row-reverse;
     border-radius: 10px;
     background-color: #F5F5DC;
-    box-shadow: 10px 10px 5px 5px rgba(0, 0, 0, 0.1);
+        box-shadow: 0px 0px 10px 5px rgba(43, 42, 42, 0.1);
     
 }
     .sobre .conteudo {

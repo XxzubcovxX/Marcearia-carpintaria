@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Marcenaria_Ismael")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5babd67b7ca8ee3006d6e173735a8b081d1d99b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d54e65457ab194175b3f63729f8be0b8faf8850")]
 [assembly: System.Reflection.AssemblyProductAttribute("Marcenaria_Ismael")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Marcenaria_Ismael")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
